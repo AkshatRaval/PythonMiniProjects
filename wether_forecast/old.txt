@@ -1,0 +1,9 @@
+    # data = csv.reader(data)
+    # temperature = []
+    # for row in data:
+    #     if row[1] != "temperature":
+    #         temperature.append(int(row[1]))
+    #     print(row)
+    
+    # print(temperature)
+            
